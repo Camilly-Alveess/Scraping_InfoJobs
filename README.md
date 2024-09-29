@@ -42,9 +42,10 @@ Antes de executar este projeto, você precisará dos seguintes pré-requisitos:
 
 Aqui estão algumas atividades comuns que podem ser utilizadas no seu projeto:
 
-- **Data Scraping**: Para extrair dados das tabelas da página.
-- **Write Range**: Para salvar os dados extraídos em um arquivo Excel.
-- **Log Message**: Para registrar informações durante a execução do fluxo.
+- **Use Browser**: Para puxar a página web que temos interesse.
+- **Extract Data Table**: Para extrair dados das tabelas da página.
+- **Tabela de Dados de Saída como Texto**: Para salvar os dados extraídos como texto.
+- **Write Range**: Para salvar os dados em um arquivo Excel.
 
 ## Contribuições
 
